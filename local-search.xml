@@ -4,7 +4,7 @@
   
   
   <entry>
-    <title>hexo_help</title>
+    <title>hexo使用速查</title>
     <link href="/2021/01/15/hexo-help/"/>
     <url>/2021/01/15/hexo-help/</url>
     
@@ -29,11 +29,11 @@
   
   
   <entry>
-    <title>start</title>
+    <title>Start</title>
     <link href="/2021/01/03/start/"/>
     <url>/2021/01/03/start/</url>
     
-    <content type="html"><![CDATA[<h1 id="标题测试"><a href="#标题测试" class="headerlink" title="标题测试"></a>标题测试</h1><h1 id="代码块测试"><a href="#代码块测试" class="headerlink" title="代码块测试"></a>代码块测试</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ <span class="hljs-built_in">echo</span> Hello World!<br></code></pre></td></tr></table></figure><h1 id="公式测试"><a href="#公式测试" class="headerlink" title="公式测试"></a>公式测试</h1><p>$E = mc^2$</p><h1 id="图床测试"><a href="#图床测试" class="headerlink" title="图床测试"></a>图床测试</h1><p><img src="https://www.hualigs.cn/image/5ff1b356ce0e6.jpg" alt="pluto"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="标题测试"><a href="#标题测试" class="headerlink" title="标题测试"></a>标题测试</h1><h1 id="代码块测试"><a href="#代码块测试" class="headerlink" title="代码块测试"></a>代码块测试</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ <span class="hljs-built_in">echo</span> Hello World!<br></code></pre></td></tr></table></figure><h1 id="公式测试"><a href="#公式测试" class="headerlink" title="公式测试"></a>公式测试</h1><p>$E = mc^2$</p><h1 id="图床测试"><a href="#图床测试" class="headerlink" title="图床测试"></a>图床测试</h1><p>使用SM.MS图床<br><img src="https://i.loli.net/2021/01/15/hfaj8lOJ16RFAX5.png" alt="pluto"></p>]]></content>
     
     
     <categories>
